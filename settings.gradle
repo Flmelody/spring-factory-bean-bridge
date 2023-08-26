@@ -1,0 +1,3 @@
+rootProject.name = 'spring-factory-bean-bridge'
+include('spring-factory-bean-core')
+include('spring-factory-bean-jdbi')
