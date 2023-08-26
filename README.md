@@ -8,7 +8,7 @@ Using `FactoryBean` implementation, We can register them automatically.
 
 **minimal Java version 17**
 
-# Supported default
+## Supported default
 
 - JDBI repository (use `@JdbiRepositoryScan` and `@SpringBean` annotations)
 
