@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'org.flmelody'
-version = '1.0.0'
+version = '1.0.0-RELEASE'
 
 java {
     sourceCompatibility = '17'

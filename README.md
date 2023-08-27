@@ -23,7 +23,7 @@ Base dependency
 <dependency>
     <groupId>org.flmelody</groupId>
     <artifactId>spring-factory-bean-core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-RELEASE</version>
 </dependency>
 
 ```
@@ -49,7 +49,7 @@ Maven dependency
 <dependency>
     <groupId>org.flmelody</groupId>
     <artifactId>spring-factory-bean-jdbi</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-RELEASE</version>
 </dependency>
 
 ```
@@ -57,7 +57,7 @@ Maven dependency
 or Gradle dependency
 
 ```groovy
-implementation 'org.flmelody:spring-factory-bean-jdbi:1.0.0'
+implementation 'org.flmelody:spring-factory-bean-jdbi:1.0.0-RELEASE'
 ```
 
 - Configuration
